@@ -21,8 +21,6 @@ nav ul {
     margin:0px ;
     padding: 10px;
     text-align: center;
- 
-
 }
 
 nav ul li {
@@ -35,8 +33,6 @@ nav ul li a{
     color: black;
     font-weight: bold;
 }
-
-
 nav ul li a:hover {
     text-decoration: wavy;
     box-shadow: 0 0 10px rgba(139, 69, 19);
